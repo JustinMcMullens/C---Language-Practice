@@ -1,0 +1,31 @@
+Anakin
+Lightsaber Color: Blue 
+Combat Form: 5
+
+Dooku
+Lightsaber Color: Red 
+Combat Form: 2
+
+Ventress
+Lightsaber Color: Red 
+Combat Form: 2
+
+Obi-Wan
+Lightsaber Color: Blue 
+Combat Form: 3
+
+Kanan Jarrus
+Lightsaber Color: Blue 
+Combat Form: 3
+
+Yoda
+Lightsaber Color: Green
+Combat Form: 4
+
+Darth Maul
+Lightsaber Color: Red 
+Combat Form: 6
+
+Mace Windu
+Lightsaber Color: Purple
+Combat Form: 7
